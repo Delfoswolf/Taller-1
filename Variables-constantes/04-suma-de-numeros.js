@@ -1,6 +1,6 @@
-const numero1 = parseFloat(prompt("Ingrese el primer número:"));
+const numero1 = parseFloat(prompt("Ingrese el primer numero:"));
 
-const numero2 = parseFloat(prompt("Ingrese el segundo número:"));
+const numero2 = parseFloat(prompt("Ingrese el segundo numero:"));
 
 let suma;
 
